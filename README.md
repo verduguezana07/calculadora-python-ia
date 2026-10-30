@@ -5,10 +5,23 @@
 
 ### 🌸 Meu primeiro projeto de Engenharia de Software com Inteligência Artificial
 
-![Python](https://img.shields.io/badge/Python-3.14-8E44AD?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Web-EC87B5?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Design-C77DFF?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Interatividade-D870A0?style=for-the-badge&logo=javascript&logoColor=white)
+
+
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" alt="HTML5" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" alt="CSS3" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+
+</div>
+
+
+
 
 **Aprendendo, experimentando e transformando ideias em código.** 💜
 
