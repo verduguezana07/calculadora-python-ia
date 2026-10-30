@@ -1,35 +1,9 @@
 
-<div align="center">
-
-# 💗 Calculadora Ana | Python + Web
-
-### 🌸 Meu primeiro projeto de Engenharia de Software com Inteligência Artificial
-
-
-
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" alt="HTML5" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" alt="CSS3" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
-
+  <img src="README%20de%20Calculadora%20Ana%20em%20Python%20e%20Web.png" alt="Calculadora Ana | Python + Web" width="100%">
 </div>
 
-
-
-
-**Aprendendo, experimentando e transformando ideias em código.** 💜
-
-</div>
-
----
-
-## 🌷 Sobre o projeto
 
 A **Calculadora Ana** é um projeto desenvolvido durante um desafio de Engenharia de Software com apoio de ferramentas de Inteligência Artificial.
 
