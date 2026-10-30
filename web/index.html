@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Calculadora Rosa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>🩷 Minha Calculadora Ana</h1>
+    <p>Projeto desenvolvido com Python e tecnologias web.</p>
+
+    <div class="calculadora">
+        
+<div class="tela">
+    <div id="historico"></div>
+    <input type="text" id="visor" value="0" readonly>
+</div>
+
+
+        
+<div class="botoes">
+    <button onclick="limparVisor()">C</button>
+    <button onclick="calcularPorcentagem()">%</button>
+    <button onclick="prepararOperacao('/')">÷</button>
+    <button onclick="prepararOperacao('*')">×</button>
+
+    <button onclick="adicionarNumero('7')">7</button>
+    <button onclick="adicionarNumero('8')">8</button>
+    <button onclick="adicionarNumero('9')">9</button>
+    <button onclick="prepararOperacao('-')">−</button>
+
+    <button onclick="adicionarNumero('4')">4</button>
+    <button onclick="adicionarNumero('5')">5</button>
+    <button onclick="adicionarNumero('6')">6</button>
+    <button onclick="prepararOperacao('+')">+</button>
+
+    <button onclick="adicionarNumero('1')">1</button>
+    <button onclick="adicionarNumero('2')">2</button>
+    <button onclick="adicionarNumero('3')">3</button>
+    <button onclick="calcularResultado()">=</button>
+
+    <button onclick="adicionarNumero('0')">0</button>
+    <button onclick="adicionarPonto()">.</button>
+    <button onclick="prepararOperacao('**')">xʸ</button>
+</div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
