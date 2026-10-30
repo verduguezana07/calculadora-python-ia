@@ -74,6 +74,16 @@ calculadora-python-ia/
     └── script.js
 ```
 
+## 📸 Demonstração da Calculadora Ana
+
+<div align="center">
+  <img src="Captura%20de%20tela%202026-10-29%20224126.png" alt="Interface rosa e lilás da Calculadora Ana" width="450">
+</div>
+
+<p align="center">
+  💗 Interface desenvolvida com HTML, CSS e JavaScript.
+</p>
+
 ## 🚀 Como executar
 
 ### Versão Python
